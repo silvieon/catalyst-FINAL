@@ -1,0 +1,31 @@
+#userdata {
+  width: 200px;
+  height: 600px;
+  display: flex;
+
+  float: left;
+  align-items: top;
+  text-align: left;
+  justify-content: left;
+
+  font-family: sans-serif;
+  font-size: 18px;
+  
+  border-radius: 5px;
+  padding: 20px 20px;
+}
+
+#yale_button {
+  color: white;
+  background-color: #00356B;
+  border: none;
+}
+
+#yale_button:hover {
+  background-color: #1A6EFF;
+}
+
+.button {
+  height: 40px;
+  width: 100px;
+}
